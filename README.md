@@ -1,1 +1,94 @@
-# halaman-web-diva
+
+<!DOCTYPE html>
+<html lang="id">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Desain Komunikasi Visual - Diva Ayu Lestari</title>
+</head>
+<body>
+
+    <h1>Selamat Datang di Dunia Desain Komunikasi Visual!</h1>
+    <h2>Halo semua, perkenalkan saya Diva Ayu Lestari</h2>
+    <h3>Ini adalah halaman web sederhana saya sebagai mahasiswi DKV</h3>
+    <hr>
+
+    <p>Contoh teks <strong>TEBAL</strong>, dan ini contoh teks 
+    <em>MIRING</em>.</p>
+
+    <p>Contoh <cite>kutipan miring</cite>, 
+    atau menggunakan <q>tanda petik</q>, serta kutipan panjang:</p>
+    <blockquote>
+        "Desain bukan hanya tentang estetika, tapi bagaimana pesan disampaikan secara visual dan efektif."
+    </blockquote>
+
+    <p>Contoh <mark>highlight teks</mark>, 
+    <small>teks kecil</small>, 
+    <abbr title="Desain Komunikasi Visual">DKV</abbr>
+    </p>
+
+    <hr>
+
+    <h2>Hal-hal Yang Saya Suka dalam Dunia DKV</h2>
+
+    <h3>Software Favorit</h3>
+    <ol>
+        <li>Adobe Photoshop</li>
+        <li>Adobe Illustrator</li>
+        <li>Figma</li>
+    </ol>
+
+    <h3>Gaya Desain Favorit</h3>
+    <ul>
+        <li>Flat Design</li>
+        <li>Minimalis</li>
+        <li>Retro/Vintage</li>
+    </ul>
+
+    <h3>Deskripsi Singkat</h3>
+    <dl>
+        <dt>Tipografi</dt>
+        <dd>Ilmu memilih dan mengatur huruf untuk menciptakan komunikasi visual yang efektif.</dd>
+        <dt>Warna</dt>
+        <dd>Elemen penting dalam menyampaikan emosi dan makna dalam desain.</dd>
+    </dl>
+
+    <h3>Contoh Nested List</h3>
+    <ul>
+        <li>Elemen Visual
+            <ul>
+                <li>Garis</li>
+                <li>Bentuk</li>
+                <li>Tekstur</li>
+            </ul>
+        </li>
+        <li>Prinsip Desain
+            <ol>
+                <li>Keseimbangan</li>
+                <li>Kontras</li>
+                <li>Kesatuan</li>
+            </ol>
+        </li>
+    </ul>
+
+    <hr>
+
+    <h2>Hyperlink & Gambar</h2>
+    <p>Yuk, follow Instagram aku untuk lihat karya-karyaku! 😊 
+        <a href="https://www.instagram.com/divaaylstr_?igsh=MnpncGsxOWpqeXE4" target="_blank">@divaaylstr_
+        
+        </a>
+    </p>
+
+    <p>Berikut adalah contoh gambar karya desain saya:</p>
+    <img src="c:\users\hp\Downloads\megazine pawtraits 6.jpg" 
+         alt="Karya Desain Diva Ayu Lestari" width="300">
+
+    <p>Halaman Web Diva Ayu Lestari &copy; 2025.</p>
+    
+
+</body>
+</html>
+
+
+---# halaman-web-diva
